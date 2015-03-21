@@ -1,0 +1,1 @@
+Adds a sound track to your Cinema 4D scene. Adjusts max time and adds buffer with markers 1 sec before start and end.
